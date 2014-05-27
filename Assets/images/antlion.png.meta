@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: c13db5d6e42de32469a929087b2cdb55
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fabric
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 417
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: claw_L
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 367
+        width: 75
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: claw_R
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 379
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 220
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 236
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 245
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 163
+        width: 109
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 179
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 73
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
